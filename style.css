@@ -1,6 +1,14 @@
+body {
+    background-color: #89CFF0;
+}
+
 #center {
-    width: 100px;
-    height: 100px;
     margin: auto;
-    background-color: black;
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+    color: #9400D3;
+    border: 5px solid #99FF99;
 }
